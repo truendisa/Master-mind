@@ -1,0 +1,35 @@
+body{
+	background-color: darkred;
+}
+<style type="text/css">
+h1{
+	font-size: 50px;
+	color: magenta;
+}
+
+h2{
+	color: green;
+	font-size: 60px;
+}
+.big{
+	font-size: 70px;
+	color: hotpink;
+}
+.size{
+	font-size: 50px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+span{
+	color: red;
+}
+h2 span{
+	font-size: 40px;
+	color: green;
+}
+.uppercase.big{
+	color: gold;
+}
+</style>
